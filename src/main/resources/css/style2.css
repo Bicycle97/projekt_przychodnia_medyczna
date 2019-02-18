@@ -1,0 +1,554 @@
+#headerPane {
+    -fx-background-color: #cccc87;
+}
+
+#loginPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#adminPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#modifyGraphicPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#addAnnotation {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#addEmployeePane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#deleteEmployeePane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#doctorPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#displayGraphicPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#displayVisitsPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#medicalHistoryPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#displayAddAnnotationDoctorPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#administrationPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#patientManagementPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#patientAddPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#visitsManagementPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#addVisitsPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#visitsPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+#logoutPane {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 40px;
+}
+
+/*Label*/
+#restInformationLabel {
+    -fx-background-color: #cccc87;
+    -fx-background-radius: 10px;
+}
+
+#titleTextLogout {
+    -fx-text-fill: WHITE;
+}
+
+#waitLogout {
+    -fx-text-fill: WHITE;
+}
+
+#loginLoginLabel {
+    -fx-text-fill: WHITE;
+}
+
+#textField {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextAdminView {
+    -fx-text-fill: WHITE;
+}
+
+#tableColumn1 {
+    -fx-text-fill: BLACK;
+}
+
+#tableColumn2 {
+    -fx-text-fill: BLACK;
+}
+
+#tableColumn3 {
+    -fx-text-fill: BLACK;
+}
+
+#tableColumn4 {
+    -fx-text-fill: BLACK;
+}
+
+#tableColumn5 {
+    -fx-text-fill: BLACK;
+}
+
+#tableColumn6 {
+    -fx-text-fill: BLACK;
+}
+
+#promptTextModifyGraphic {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextAddAnnotation {
+    -fx-text-fill: WHITE;
+}
+
+#information {
+    -fx-text-fill: RED;
+}
+
+#textAddField {
+    -fx-text-fill: WHITE;
+}
+
+#deleteEmployeeLabel {
+    -fx-text-fill: WHITE;
+}
+
+#checkField {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextDoctorView {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextDoctorDisplayGraphic {
+    -fx-text-fill: WHITE;
+}
+
+#dataDoctorDisplayGraphic {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextDoctorDisplayVisits {
+    -fx-text-fill: WHITE;
+}
+
+#dateDoctorDisplayVisits {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextDoctorDisplayMedicalHistory {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextDoctorMedicalHistory {
+    -fx-text-fill: WHITE;
+}
+
+#patientNameTag {
+    -fx-text-fill: WHITE;
+}
+
+#patientPESELTag {
+    -fx-text-fill: WHITE;
+}
+
+#patientEmailTag {
+    -fx-text-fill: WHITE;
+}
+
+#recommendedDrugsTag {
+    -fx-text-fill: WHITE;
+}
+
+#descriptionVisitsTag {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextDoctorAddAnnotation {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextAdministrationView {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextAdministrationPatientManagement {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextAdministrationAddPatient {
+    -fx-text-fill: WHITE;
+}
+
+#nameFieldTag {
+    -fx-text-fill: WHITE;
+}
+
+#surnameFieldTag {
+    -fx-text-fill: WHITE;
+}
+
+#emailFieldTag {
+    -fx-text-fill: WHITE;
+}
+
+#peselFieldTag {
+    -fx-text-fill: WHITE;
+}
+
+#addressFieldTag {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextAdministrationManagementView {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextAdministrationAddVisits {
+    -fx-text-fill: WHITE;
+}
+
+#employeeDataL {
+    -fx-text-fill: WHITE;
+}
+
+#patientDataL {
+    -fx-text-fill: WHITE;
+}
+
+#dateVisitsL {
+    -fx-text-fill: WHITE;
+}
+
+#timeVisitsL {
+    -fx-text-fill: WHITE;
+}
+
+#titleTextAdministrationVisitsView {
+    -fx-text-fill: WHITE;
+}
+
+
+/*buttons*/
+#languageButton {
+    -fx-background-color: #83c1c5;
+    -fx-background-radius: 30px;
+    -fx-text-fill: #dad2d2;
+}
+
+#closeButton {
+    -fx-background-color: #83c1c5;
+    -fx-background-radius: 30px;
+    -fx-text-fill: #dad2d2;
+}
+
+#optionLoginButton {
+    -fx-background-color: #83c1c5;
+    -fx-background-radius: 30px;
+}
+
+#skinButton {
+    -fx-background-color: #83c1c5;
+    -fx-background-radius: 30px;
+    -fx-text-fill: #dad2d2;
+}
+
+#menuButton1 {
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+    -fx-background-radius: 10px;
+    -fx-border-color: #000;
+    -fx-border-radius: 10px;
+    -fx-background-color: #cccc87;
+    -fx-text-fill: WHITE;
+}
+
+#menuButton2 {
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+    -fx-background-radius: 10px;
+    -fx-border-color: #000;
+    -fx-border-radius: 10px;
+    -fx-background-color: #cccc87;
+    -fx-text-fill: WHITE;
+}
+
+#menuButton3 {
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+    -fx-background-radius: 10px;
+    -fx-border-color: #000;
+    -fx-border-radius: 10px;
+    -fx-background-color: #cccc87;
+    -fx-text-fill: WHITE;
+}
+
+#menuButton4 {
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+    -fx-background-radius: 10px;
+    -fx-border-color: #000;
+    -fx-border-radius: 10px;
+    -fx-background-color: #cccc87;
+    -fx-text-fill: WHITE;
+}
+
+#loginButton {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addButtonModifyGraphic {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#deleteButtonModifyGraphic {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#modifyButtonModifyGraphic {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addButtonAddAnnotation {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#modifyButtonAddAnnotation {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addButton {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#deleteEmployeeButton {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#showButtonDoctorDisplayGraphic {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#displayButtonDoctorDisplayVisits {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#displayButtonDoctorDisplayMedicalHistory {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addDoctorMedicalHistory {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #000000;
+}
+
+#addDoctorAddAnnotation {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#deletePatientAdministrationPatientManagement {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#modifyPatientAdministrationPatientManagement {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addPatientAdministrationPatientManagement {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addPatientAdministrationAddPatient {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addPatientAdministrationModifyPatient {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#deleteVisitsAdministrationManagementView {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#modifyVisitsAdministrationManagementView {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addVisitsAdministrationManagementView {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addVisitsAdministrationAddVisits {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addVisitsAdministrationModifyVisits {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#showVisits {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#deletePatientAdministrationPatientManagement {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#modifyPatientAdministrationPatientManagement {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addPatientAdministrationPatientManagement {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addPatientAdministrationAddPatient {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addPatientAdministrationModifyPatient {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#deleteVisitsAdministrationManagementView {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#modifyVisitsAdministrationManagementView {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addVisitsAdministrationManagementView {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addVisitsAdministrationAddVisits {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#addVisitsAdministrationModifyVisits {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}
+
+#showVisits {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: WHITE;
+}

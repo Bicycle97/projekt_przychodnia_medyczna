@@ -1,0 +1,485 @@
+/*pane*/
+#headerPane {
+    -fx-background-color: #b9d1e0;
+}
+
+#loginPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#adminPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#modifyGraphicPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#addAnnotation {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#addEmployeePane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#deleteEmployeePane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#doctorPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#displayGraphicPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#displayVisitsPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#medicalHistoryPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#displayAddAnnotationDoctorPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#administrationPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#patientManagementPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#patientAddPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#visitsManagementPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#addVisitsPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#visitsPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+#logoutPane {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 40px;
+}
+
+
+/*Label*/
+
+#restInformationLabel {
+    -fx-background-color: #9abec3;
+    -fx-background-radius: 10px;
+}
+
+#titleTextLogout {
+    -fx-text-fill: #030303;
+}
+
+#waitLogout {
+    -fx-text-fill: #030303;
+}
+
+#loginLoginLabel {
+    -fx-text-fill: #030303;
+}
+
+#textField {
+    -fx-text-fill: #030303;
+}
+
+#titleTextAdminView {
+    -fx-text-fill: #030303;
+}
+
+#tableColumn1 {
+    -fx-text-fill: #030303;
+}
+
+#tableColumn2 {
+    -fx-text-fill: #030303;
+}
+
+#tableColumn3 {
+    -fx-text-fill: #030303;
+}
+
+#tableColumn4 {
+    -fx-text-fill: #030303;
+}
+
+#tableColumn5 {
+    -fx-text-fill: #030303;
+}
+
+#tableColumn6 {
+    -fx-text-fill: #030303;
+}
+
+#promptTextModifyGraphic {
+    -fx-text-fill: #030303;
+}
+
+#titleTextAddAnnotation {
+    -fx-text-fill: #030303;
+}
+
+#information {
+    -fx-text-fill: RED;
+}
+
+#textAddField {
+    -fx-text-fill: #030303;
+}
+
+#deleteEmployeeLabel {
+    -fx-text-fill: #030303;
+}
+
+#checkField {
+    -fx-text-fill: #030303;
+}
+
+#titleTextDoctorView {
+    -fx-text-fill: #030303;
+}
+
+#titleTextDoctorDisplayGraphic {
+    -fx-text-fill: #030303;
+}
+
+#dataDoctorDisplayGraphic {
+    -fx-text-fill: #030303;
+}
+
+#titleTextDoctorDisplayVisits {
+    -fx-text-fill: #030303;
+}
+
+#dateDoctorDisplayVisits {
+    -fx-text-fill: #030303;
+}
+
+#titleTextDoctorDisplayMedicalHistory {
+    -fx-text-fill: #030303;
+}
+
+#titleTextDoctorMedicalHistory {
+    -fx-text-fill: #030303;
+}
+
+#patientNameTag {
+    -fx-text-fill: #030303;
+}
+
+#patientPESELTag {
+    -fx-text-fill: #030303;
+}
+
+#patientEmailTag {
+    -fx-text-fill: #030303;
+}
+
+#recommendedDrugsTag {
+    -fx-text-fill: #030303;
+}
+
+#descriptionVisitsTag {
+    -fx-text-fill: #030303;
+}
+
+#titleTextDoctorAddAnnotation {
+    -fx-text-fill: #030303;
+}
+
+#titleTextAdministrationView {
+    -fx-text-fill: #030303;
+}
+
+#titleTextAdministrationPatientManagement {
+    -fx-text-fill: #030303;
+}
+
+#titleTextAdministrationAddPatient {
+    -fx-text-fill: #030303;
+}
+
+#nameFieldTag {
+    -fx-text-fill: #030303;
+}
+
+#surnameFieldTag {
+    -fx-text-fill: #030303;
+}
+
+#emailFieldTag {
+    -fx-text-fill: #030303;
+}
+
+#peselFieldTag {
+    -fx-text-fill: #030303;
+}
+
+#addressFieldTag {
+    -fx-text-fill: #030303;
+}
+
+#titleTextAdministrationManagementView {
+    -fx-text-fill: #030303;
+}
+
+#titleTextAdministrationAddVisits {
+    -fx-text-fill: #030303;
+}
+
+#employeeDataL {
+    -fx-text-fill: #030303;
+}
+
+#patientDataL {
+    -fx-text-fill: #030303;
+}
+
+#dateVisitsL {
+    -fx-text-fill: #030303;
+}
+
+#timeVisitsL {
+    -fx-text-fill: #030303;
+}
+
+#titleTextAdministrationVisitsView {
+    -fx-text-fill: #030303;
+}
+
+/*buttons*/
+#languageButton {
+    -fx-background-color: #9b9c9d;
+    -fx-background-radius: 30px;
+    -fx-text-fill: #dad2d2;
+}
+
+#closeButton {
+    -fx-background-color: #9b9c9d;
+    -fx-background-radius: 30px;
+    -fx-text-fill: #dad2d2;
+}
+
+#optionLoginButton {
+    -fx-background-color: #9b9c9d;
+    -fx-background-radius: 30px;
+}
+
+#skinButton {
+    -fx-background-color: #9b9c9d;
+    -fx-background-radius: 30px;
+    -fx-text-fill: #dad2d2;
+}
+#menuButton1 {
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+    -fx-background-radius: 10px;
+    -fx-border-color: #000;
+    -fx-border-radius: 10px;
+    -fx-background-color: #9abec3;
+    -fx-text-fill: BLACK;
+}
+#menuButton2 {
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+    -fx-background-radius: 10px;
+    -fx-border-color: #000;
+    -fx-border-radius: 10px;
+    -fx-background-color: #9abec3;
+    -fx-text-fill: BLACK;
+}
+
+#menuButton3 {
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+    -fx-background-radius: 10px;
+    -fx-border-color: #000;
+    -fx-border-radius: 10px;
+    -fx-background-color: #9abec3;
+    -fx-text-fill: BLACK;
+}
+
+#menuButton4 {
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+    -fx-background-radius: 10px;
+    -fx-border-color: #000;
+    -fx-border-radius: 10px;
+    -fx-background-color: #9abec3;
+    -fx-text-fill: BLACK;
+}
+
+#loginButton {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addButtonModifyGraphic {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#deleteButtonModifyGraphic {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#modifyButtonModifyGraphic {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addButtonAddAnnotation {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#modifyButtonAddAnnotation {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addButton {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#deleteEmployeeButton {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+#showButtonDoctorDisplayGraphic {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#displayButtonDoctorDisplayVisits {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+#displayButtonDoctorDisplayMedicalHistory {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addDoctorMedicalHistory {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+#addDoctorAddAnnotation {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#deletePatientAdministrationPatientManagement {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#modifyPatientAdministrationPatientManagement {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addPatientAdministrationPatientManagement {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addPatientAdministrationAddPatient {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addPatientAdministrationModifyPatient {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#deleteVisitsAdministrationManagementView {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#modifyVisitsAdministrationManagementView {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addVisitsAdministrationManagementView {
+    -fx-background-color: #0032da;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addVisitsAdministrationAddVisits {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#addVisitsAdministrationModifyVisits {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
+
+#showVisits {
+    -fx-background-color: #da2c75;
+    -fx-background-radius: 50px;
+    -fx-text-fill: #dad2d2;
+}
